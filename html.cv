@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>CV Abdessamad Ghanmi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    
+    <div class="left">
+        <h1>GHANMI<br>ABDESSAMAD</h1>
+        <h3>Étudiante en IAIL S2</h3>
+
+        <div class="info">
+            <p>📞 0613666751</p>
+            <p>📍 Ouarzazate - Maroc</p>
+            <p>✉️ abdessamadghanmi5@gmail.com</p>
+            <p>💻 Github: abdessamadghanmi5</p>
+        </div>
+
+
+        <div class="section">
+            <h4>EDUCATION</h4>
+            <p><b>Baccalauréat:</b> Sciences Physiques</p>
+            <p><b>Mention:</b> Passable</p>
+            <p><b>Lycée:</b> Abi elkassim</p>
+        </div>
+
+        <div class="section">
+            <h4>COMPÉTENCES</h4>
+<ul>
+<li>Gestion des problème            <ul>
+                <li>Bonne communication</li>
+                <li>Representation des exposés</li>
+                <li>adaptabilité</li>
+                <li>expert en montage védio</li>
+            </ul>
+        </div>
+    </div>
+
+
+    <div class="right">
+        <div class="photo">
+            <img
+
+
+        <p class="profile">
+            Étudiant en première année à l'Université Polydisciplinaire de Ouarzazate,
+            spécialité en sécurité et réseaux informatique.
+        </p>
+
+        <div class="section">
+            <h4>PROFIL</h4>
+            <p>
+                Je suis une étudiante passionnée par les nouvelles technologies,
+                cherchant à développer mes compétences en informatique et à
+                construire une carrière dans le domaine de l'ingénierie logicielle.
+            </p>
+        </div>
+
+
+        <div class="section">
+            <h4>🎓 Expérience au lycée</h4>
+            <ul>
+                <li>- Participant dans un club: organisation d'ateliers scientifiques.
+
+</li>Aide aux étudiants plus jeune.</li>
+              <li>Développement d'une application.
+</li>
+                <li>Développement des compétences de communication et de prise de parole en public.</li>
+            </ul>
+        </div>
+
+
+    </div>
+
+</div>
+
+</body>
+</html>
